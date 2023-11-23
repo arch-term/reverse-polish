@@ -1,4 +1,4 @@
-* Implementation of Reverse Poslish Notation
+# Implementation of Reverse Poslish Notation
 
 !! Made by arch-term. Sorry for my english :) !!
 !! This program was created with purpose to learn. !!
